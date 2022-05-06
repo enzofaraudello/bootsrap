@@ -1,0 +1,27 @@
+
+.suscribir {
+    background: url(https://p4.wallpaperbetter.com/wallpaper/190/337/145/gray-minimalistic-textures-wallpaper-preview.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
+.formupa {
+    width: 250px;
+}
+.form-group{
+    margin: 3px;
+}
+.articulos{
+    display: flex;
+}
+
+
+.footer{
+    width: 100%;
+    height: 50px;
+    position: relative;
+    bottom:0px;
+}
