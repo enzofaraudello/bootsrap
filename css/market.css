@@ -1,5 +1,16 @@
 
+.header-container {
+    color: #DD4A48;
+    font-size: 20px;
+    background-color: #97bfb4;
+    padding: 20px 0;
+    display: flex;
+
+    justify-content: flex-end;
+
+}
 .carousel-principal{
+    position: relative;
     margin: auto;
     align-items: center;
     height: 500px;

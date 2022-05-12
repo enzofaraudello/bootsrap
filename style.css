@@ -1,4 +1,14 @@
 
+.header-container {
+    color: #DD4A48;
+    font-size: 20px;
+    background-color: #97bfb4;
+    padding: 20px 0;
+    display: flex;
+
+    justify-content: flex-end;
+
+}
 .suscribir {
     background: url(https://p4.wallpaperbetter.com/wallpaper/190/337/145/gray-minimalistic-textures-wallpaper-preview.jpg);
     background-size: cover;
